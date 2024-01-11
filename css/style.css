@@ -10,3 +10,18 @@
     color: red;
     line-height: 100px;
 }
+
+.fzz{
+    background-color: yellow;
+    color: black;
+}
+
+.bzz{
+    background-color: red;
+    color: black;
+}
+
+.fzzbzz{
+    background-color: greenyellow;
+    color: black;
+}
