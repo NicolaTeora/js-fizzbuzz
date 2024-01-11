@@ -24,6 +24,6 @@ ma che i:
 Creare un ciclo **FOR** per contare da 1 a 100.
 
 Creare un selettore che:
-**SE** i numeri sono multipli di 3 sostituisca il numero con il testo **Fizz**
+**SE** sono multipli di 3 "&" di 5 scrivere **FizzBuzz** al posto del numero.
+**altrimenti SE** i numeri sono multipli di 3 sostituisca il numero con il testo **Fizz**
 **ALTRIMENTI SE** sono multipli di 5 sostituire il numero con **Buzz**
-**ALTRIMENTI SE** sono multipli di 3 "&" di 5 scrivere **FizzBuzz** al posto del numero.
